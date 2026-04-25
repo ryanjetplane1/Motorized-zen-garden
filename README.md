@@ -6,7 +6,7 @@ The zen garden uses 2 8mm stepper motors powered by an esp32 to control a SCARA 
 It is controlled from a web page hosted on the esp32 wifi and lets you draw your own patterns.
 
 
-<dir></dir>
+<br></br>
 Wiring:
 <img width="589" height="762" alt="image" src="https://github.com/user-attachments/assets/9ab5ed0f-2b91-41fe-a8dd-2e0cf367602a" />
 
