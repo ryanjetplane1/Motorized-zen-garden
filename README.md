@@ -12,11 +12,16 @@ Wiring:
 <img width="589" height="762" alt="image" src="https://github.com/user-attachments/assets/9ab5ed0f-2b91-41fe-a8dd-2e0cf367602a" />
 
 
-BOM:
-Microcontroller: ESP32-C3 SuperMini (RISC-V)
-Drivers: 2x TB6612FNG Dual H-Bridge
-Motors: 2x 8mm 2-Phase 4-Wire Micro Steppers
-Magnets: N52 Neodymium Disc (1/8") + 8mm Stainless Steel Ball
-Filament: Printed using PETG for strength
-Devboard: Esp32 c3 supermini
+##BOM
 
+
+| Category | Component | Specification |
+| :--- | :--- | :--- |
+| **Microcontroller** | **ESP32-C3 SuperMini** | RISC-V architecture, high-performance WiFi/BLE |
+| **Motor Drivers** | **2x TB6612FNG** | High-efficiency Dual H-Bridge drivers |
+| **Motors** | **2x Micro Steppers** | 8mm 2-Phase 4-Wire precision motors |
+| **Kinematics** | **Magnetic Linkage** | N52 Neodymium Disc (1/8") + 8mm Steel Ball |
+| **Construction** | **3D Printed PETG** | Chosen for durability and thermal resistance |
+| **Interface** | **Web Dashboard** | Hosted locally on the ESP32-C3 |
+
+> **Total Project Cost:** ~$60 USD
