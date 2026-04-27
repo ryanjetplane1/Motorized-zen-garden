@@ -12,7 +12,7 @@ Wiring:
 <img width="589" height="762" alt="image" src="https://github.com/user-attachments/assets/9ab5ed0f-2b91-41fe-a8dd-2e0cf367602a" />
 
 
-##BOM
+BOM:
 
 
 | Category | Component | Specification |
