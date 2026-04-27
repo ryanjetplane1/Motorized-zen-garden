@@ -9,7 +9,8 @@ It is controlled from a web page hosted on the esp32 wifi and lets you draw your
 
 <br></br>
 Wiring:
-<img width="589" height="762" alt="image" src="https://github.com/user-attachments/assets/9ab5ed0f-2b91-41fe-a8dd-2e0cf367602a" />
+<img width="589" height="762" alt="583679621-9ab5ed0f-2b91-41fe-a8dd-2e0cf367602a" src="https://github.com/user-attachments/assets/7eda8f51-c523-49a9-bd64-7c834f359b07" />
+
 
 <img width="756" height="595" alt="image" src="https://github.com/user-attachments/assets/c164bef1-3218-4e2e-9f90-c37a864992c4" />
 
