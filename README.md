@@ -25,8 +25,7 @@ Wiring:
 | **Output** | Coil 2 | — | BO1, BO2 | — |
 | **Output** | Coil 1 | — | — | AO1, AO2 |
 | **Output** | Coil 2 | — | — | BO1, BO2 |
-
-> **Note:** For the **8mm Stepper Motors**, ensure you connect one coil pair to AO1/AO2 and the other pair to BO1/BO2. If the motor vibrates but doesn't spin, swap the two wires on AO1 and AO2.
+For the 8mm Stepper Motors, make sure you connect one coil pair to AO1/AO2 and the other pair to BO1/BO2. If the motor vibrates but doesn't spin, swap the two wires on AO1 and AO2.
 
 <img width="589" height="762" alt="583679621-9ab5ed0f-2b91-41fe-a8dd-2e0cf367602a" src="https://github.com/user-attachments/assets/7eda8f51-c523-49a9-bd64-7c834f359b07" />
 
