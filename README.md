@@ -44,5 +44,4 @@ BOM:
 | **Kinematics** | **Magnetic Linkage** | N52 Neodymium Disc (1/8") + 8mm Steel Ball |
 | **Construction** | **3D Printed PETG** | Chosen for durability and thermal resistance |
 | **Interface** | **Web Dashboard** | Hosted locally on the ESP32-C3 |
-
-> **Total Project Cost:** ~$60 USD
+| **Total Cost** | ~60$ USD |
