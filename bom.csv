@@ -2,7 +2,7 @@ Category,Component,Quantity,Specification,Notes
 Microcontroller,ESP32-C3 SuperMini,1,"RISC-V architecture, WiFi/BLE",Main MCU
 Motor Drivers,TB6612FNG,2,Dual H-Bridge,High-efficiency
 Motors,Micro Stepper Motors,2,8mm 2-Phase 4-Wire,Precision movement
-Kinematics,N52 Neodymium Disc,1,1/8" diameter,Part of magnetic linkage
+Kinematics,N52 Neodymium Disc,1,"1/8"" diameter",Part of magnetic linkage
 Kinematics,Steel Ball,1,8mm diameter,Part of magnetic linkage
 Construction,3D Printed Chassis,1,PETG Filament,Heat/Impact resistant
 Interface,Web Dashboard,1,Local ESP32 Host,Control UI
