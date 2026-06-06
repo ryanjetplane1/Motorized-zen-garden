@@ -29,6 +29,7 @@ For the 8mm Stepper Motors, make sure you connect one coil pair to AO1/AO2 and t
 
 <img width="589" height="762" alt="583679621-9ab5ed0f-2b91-41fe-a8dd-2e0cf367602a" src="https://github.com/user-attachments/assets/7eda8f51-c523-49a9-bd64-7c834f359b07" />
 
+<img width="702" height="413" alt="image" src="https://github.com/user-attachments/assets/8003f196-917a-4b15-ba40-a6190b9db06e" />
 
 
 <img width="756" height="595" alt="image" src="https://github.com/user-attachments/assets/c164bef1-3218-4e2e-9f90-c37a864992c4" />
