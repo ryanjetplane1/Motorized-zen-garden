@@ -40,12 +40,11 @@ Heres a diagram of how it works.
 BOM:
 
 
-| Category | Component | Specification |
-| :--- | :--- | :--- |
-| **Microcontroller** | **ESP32-C3 SuperMini** | RISC-V architecture, high-performance WiFi/BLE |
-| **Motor Drivers** | **2x TB6612FNG** | High-efficiency Dual H-Bridge drivers |
-| **Motors** | **2x Micro Steppers** | 8mm 2-Phase 4-Wire precision motors |
-| **Kinematics** | **Magnetic Linkage** | N52 Neodymium Disc (1/8") + 8mm Steel Ball |
-| **Construction** | **3D Printed PETG** | Chosen for durability and thermal resistance |
-| **Interface** | **Web Dashboard** | Hosted locally on the ESP32-C3 |
-| **Price** | **Total Cost** | ~60$ USD |
+Category,Component,Quantity,Specification,Notes, Link
+Microcontroller,ESP32-C3 SuperMini,1,"RISC-V architecture, WiFi/BLE",Main MCU, https://www.amazon.com/AITRIP-ESP32-C3-Development-Board-Bluetooth/dp/B0FBGDFPBQ/ref=sr_1_6?crid=37KV6HQUNLDN3&dib=eyJ2IjoiMSJ9.ain9jVAIYRXw2BXFRrFE-5GcfGCESrmOlQgiyUymIw6dJ3arM1Sz31QGR7VxZaqeS9U49m7gjrnaLvwYvi63Toih6Ic6ni7zEVollxJZipreeIHWgZhqNQgRIJkgVcsndWxo98YfJyMuJq9-tl9_uch65lXrdfiVzxLvWPn8_L1QLeiL3vX3eY-qaAg8jH5e5zlgCUuhGxLlSLg1BoRSzVJVgg4iRT75LT1Tpj5ivkwt60E6SGFHLKnOfEGIf57m1_l9OL-6Jc5khVvcaTZuvujtGS8ETBqRoMVx3G0IeIc.a08Eix8g23r6gdsEUe_Mcn26HjWYKr0I3-fT2Mv4IPc&dib_tag=se&keywords=esp32+c3+supermini&qid=1781110162&sprefix=esp32+c3supermin%2Caps%2C217&sr=8-6
+Motor Drivers,TB6612FNG,2,Dual H-Bridge,High-efficiency, https://www.amazon.com/gp/product/B0BLRSWTLM/ref=ox_sc_act_title_1?smid=A2L2YSK9NV3SSU&psc=1
+Motors,Micro Stepper Motors,2,8mm 2-Phase 4-Wire,Precision movement, https://www.amazon.com/gp/product/B08346RFVZ/ref=ox_sc_act_title_2?smid=AOIFQITEAJXZV&psc=1
+Kinematics,N52 Neodymium Disc,1,"1/8"" diameter",Part of magnetic linkage, https://www.amazon.com/gp/product/B0FNS4L7Y4/ref=ox_sc_act_title_4?smid=A2OHLF2K1I4V3J&th=1
+Kinematics,Steel Ball,1,8mm diameter,Part of magnetic linkage, https://www.amazon.com/gp/product/B0FZKJHG5J/ref=ox_sc_act_title_1?smid=A1UCIC7VFI1GV0&th=1
+Sand, Fine White Sand, 1, 425g, Patterns, https://www.amazon.com/gp/product/B0F1CR2717/ref=ox_sc_act_title_3?smid=A1EF9C2WRPTL30&psc=1
+Leds, Led Light Strip, 1, 3.3ft, Looks Good, https://www.amazon.com/gp/product/B097BX7LRT/ref=ox_sc_act_title_2?smid=A1KV5GR1U2IFEZ&th=1
