@@ -38,4 +38,4 @@ Heres a diagram of how it works.
 <img width="756" height="595" alt="image" src="https://github.com/user-attachments/assets/c164bef1-3218-4e2e-9f90-c37a864992c4" />
 
 
-[View Bill of Materials](BOM.csv)
+[View Bill of Materials](bom.csv)
