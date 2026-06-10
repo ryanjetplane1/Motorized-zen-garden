@@ -1,8 +1,1 @@
-Category,Component,Quantity,Specification,Notes
-Microcontroller,ESP32-C3 SuperMini,1,"RISC-V architecture, WiFi/BLE",Main MCU
-Motor Drivers,TB6612FNG,2,Dual H-Bridge,High-efficiency
-Motors,Micro Stepper Motors,2,8mm 2-Phase 4-Wire,Precision movement
-Kinematics,N52 Neodymium Disc,1,"1/8"" diameter",Part of magnetic linkage
-Kinematics,Steel Ball,1,8mm diameter,Part of magnetic linkage
-Construction,3D Printed Chassis,1,PETG Filament,Heat/Impact resistant
-Interface,Web Dashboard,1,Local ESP32 Host,Control UI
+Category,Component,Quantity,Specification,Notes,Purchase LinkMicrocontroller,ESP32-C3 SuperMini,1,"RISC-V architecture, WiFi/BLE",Main MCU,https://www.amazon.com/gp/product/B0FNS4L7Y4/ref=ox_sc_act_title_4?smid=A2OHLF2K1I4V3J&th=1Motor Drivers,TB6612FNG,2,Dual H-Bridge,High-efficiency,https://www.amazon.com/gp/product/B0BLRSWTLM/ref=ox_sc_act_title_1?smid=A2L2YSK9NV3SSU&psc=1Motors,Micro Stepper Motors,2,8mm 2-Phase 4-Wire,Precision movement,https://www.amazon.com/gp/product/B08346RFVZ/ref=ox_sc_act_title_2?smid=AOIFQITEAJXZV&psc=1Kinematics,N52 Neodymium Disc,1,"1/8"" diameter",Part of magnetic linkage,https://www.amazon.com/gp/product/B0F1CR2717/ref=ox_sc_act_title_3?smid=A1EF9C2WRPTL30&psc=1Kinematics,Steel Ball,1,8mm diameter,Part of magnetic linkage,https://www.amazon.com/gp/product/B097BX7LRT/ref=ox_sc_act_title_2?smid=A1KV5GR1U2IFEZ&th=1Construction,3D Printed Chassis,1,PETG Filament,Heat/Impact resistant,N/AInterface,Web Dashboard,1,Local ESP32 Host,Control UI,N/A
